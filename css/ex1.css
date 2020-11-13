@@ -1,0 +1,26 @@
+h1{
+    color:white;
+    font-size:50px;
+    text-align:center;
+    font-weight:bold;
+    font-family: fantasy;
+    background-color: skyblue;
+}
+
+body{
+  background-image: url(../images/06.jpg);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position:center;    
+}
+p{
+  color:black;  
+}
+h2{
+    color:greenyellow;
+    text-align:center;
+    font-weight:normal;
+    background-color: black;
+}
+table{background-color: aqua;}
+ol{background-image: url(../images/07.jpg)}
