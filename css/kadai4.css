@@ -1,0 +1,27 @@
+/*pタグの中でもbluecolorクラスのものだけ装飾*/
+h1.bluecolor{
+    text-align: center;
+    color:floralwhite;
+    background-color: blue;
+}
+h1.greencolor{
+    text-align: center;
+    color:black;
+    background-color: forestgreen;
+}
+h2.aquacolor{
+    text-align: center;
+    color:aqua;
+    background-color: mediumblue;
+}
+h2.redcolor{
+    text-align: center;
+    color:red;
+    background-color: palevioletred;
+}
+body{
+    background-image: url(../images/06.jpg);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position:center; 
+}
